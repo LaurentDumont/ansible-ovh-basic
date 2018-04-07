@@ -1,0 +1,8 @@
+#FROM GITHUB
+- src: https://github.com/LaurentDumont/ansible-users-northernsysadmin.git
+  version: master
+  name: ansible-users-northernsysadmin
+
+- src: https://github.com/LaurentDumont/ansible-common-packages-northernsysadmin.git
+  version: master
+  name: ansible-common-packages-northernsysadmin

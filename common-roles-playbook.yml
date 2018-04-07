@@ -1,0 +1,6 @@
+---
+
+- hosts: vm1
+  roles:
+    - ansible-users-northernsysadmin
+    - ansible-common-packages-northernsysadmin
