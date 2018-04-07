@@ -6,3 +6,7 @@
 - src: https://github.com/LaurentDumont/ansible-common-packages-northernsysadmin.git
   version: master
   name: ansible-common-packages-northernsysadmin
+
+- src: https://github.com/LaurentDumont/ansible-docker-northernsysadmin.git
+  version: master
+  name: ansible-docker-northernsysadmin

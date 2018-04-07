@@ -4,3 +4,4 @@
   roles:
     - ansible-users-northernsysadmin
     - ansible-common-packages-northernsysadmin
+    - ansible-docker-northernsysadmin
