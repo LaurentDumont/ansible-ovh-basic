@@ -3,3 +3,7 @@ prmx1 ansible_host=192.99.101.171
 
 [vm-laurent]
 vm1 ansible_host=192.99.120.48
+
+[kubernetes]
+kube1 ansible_host=10.255.255.4
+kube2 ansible_host=10.255.255.5

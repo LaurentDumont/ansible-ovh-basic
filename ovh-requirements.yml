@@ -10,3 +10,8 @@
 - src: https://github.com/LaurentDumont/ansible-docker-northernsysadmin.git
   version: master
   name: ansible-docker-northernsysadmin
+
+- src: https://github.com/LaurentDumont/ansible-prometheus-node-northernsysadmin
+  version: master
+  name: ansible-prometheus-node-northernsysadmin
+

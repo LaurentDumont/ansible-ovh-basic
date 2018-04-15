@@ -5,3 +5,4 @@
     - ansible-users-northernsysadmin
     - ansible-common-packages-northernsysadmin
     - ansible-docker-northernsysadmin
+    - ansible-prometheus-node-northernsysadmin
