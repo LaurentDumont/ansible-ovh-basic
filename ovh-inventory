@@ -10,3 +10,6 @@ kube2 ansible_host=10.255.255.5
 
 [monitoring]
 monitoring ansible_host=10.255.255.6
+
+[monitoring:vars]
+ansible_python_interpreter=/usr/bin/python3

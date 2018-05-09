@@ -1,17 +1,16 @@
 #FROM GITHUB
-- src: https://github.com/LaurentDumont/ansible-users-northernsysadmin.git
+- src: https://github.com/LaurentDumont/ns-ansible-users.git
   version: master
-  name: ansible-users-northernsysadmin
+  name: ns-ansible-users
 
-- src: https://github.com/LaurentDumont/ansible-common-packages-northernsysadmin.git
+- src: https://github.com/LaurentDumont/ns-ansible-common-packages.git
   version: master
-  name: ansible-common-packages-northernsysadmin
+  name: ns-ansible-common-packages
 
-- src: https://github.com/LaurentDumont/ansible-docker-northernsysadmin.git
+- src: https://github.com/LaurentDumont/ns-ansible-docker.git
   version: master
-  name: ansible-docker-northernsysadmin
+  name: ns-ansible-docker
 
-- src: https://github.com/LaurentDumont/ansible-prometheus-node-northernsysadmin
+- src: https://github.com/LaurentDumont/ns-ansible-prometheus-node
   version: master
-  name: ansible-prometheus-node-northernsysadmin
-
+  name: ns-ansible-prometheus-node
